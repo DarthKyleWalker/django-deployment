@@ -26,7 +26,7 @@ SECRET_KEY = 'd%ebr5+q$ze46u1b2&44*4ei!b-n0@whqrn7#3yv7-=5i=ciso'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://darthkylewalker.pythonanywhere.com/']
 
 
 # Application definition
